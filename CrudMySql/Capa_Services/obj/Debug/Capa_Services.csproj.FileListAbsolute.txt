@@ -1,0 +1,11 @@
+D:\upc\Repasoc#\CrudMySql\Capa_Services\bin\Debug\Capa_Services.dll
+D:\upc\Repasoc#\CrudMySql\Capa_Services\bin\Debug\Capa_Services.pdb
+D:\upc\Repasoc#\CrudMySql\Capa_Services\bin\Debug\Capa_Datos.dll
+D:\upc\Repasoc#\CrudMySql\Capa_Services\bin\Debug\Capa_Entidades.dll
+D:\upc\Repasoc#\CrudMySql\Capa_Services\bin\Debug\Capa_Datos.pdb
+D:\upc\Repasoc#\CrudMySql\Capa_Services\bin\Debug\Capa_Entidades.pdb
+D:\upc\Repasoc#\CrudMySql\Capa_Services\obj\Debug\Capa_Services.csproj.AssemblyReference.cache
+D:\upc\Repasoc#\CrudMySql\Capa_Services\obj\Debug\Capa_Services.csproj.CoreCompileInputs.cache
+D:\upc\Repasoc#\CrudMySql\Capa_Services\obj\Debug\Capa_Services.csproj.CopyComplete
+D:\upc\Repasoc#\CrudMySql\Capa_Services\obj\Debug\Capa_Services.dll
+D:\upc\Repasoc#\CrudMySql\Capa_Services\obj\Debug\Capa_Services.pdb

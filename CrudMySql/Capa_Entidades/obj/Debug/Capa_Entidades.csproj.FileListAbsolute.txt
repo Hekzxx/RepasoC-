@@ -1,0 +1,6 @@
+D:\upc\Repasoc#\CrudMySql\Capa_Entidades\bin\Debug\Capa_Entidades.dll
+D:\upc\Repasoc#\CrudMySql\Capa_Entidades\bin\Debug\Capa_Entidades.pdb
+D:\upc\Repasoc#\CrudMySql\Capa_Entidades\obj\Debug\Capa_Entidades.csproj.AssemblyReference.cache
+D:\upc\Repasoc#\CrudMySql\Capa_Entidades\obj\Debug\Capa_Entidades.csproj.CoreCompileInputs.cache
+D:\upc\Repasoc#\CrudMySql\Capa_Entidades\obj\Debug\Capa_Entidades.dll
+D:\upc\Repasoc#\CrudMySql\Capa_Entidades\obj\Debug\Capa_Entidades.pdb
